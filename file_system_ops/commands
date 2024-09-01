@@ -1,0 +1,13 @@
+pwd
+ls
+ls -ltr
+ls -ltrh
+cd
+cd ..
+cd ../.. 
+cd -
+cd /User
+head some_file
+tail some_file
+wc -l some file
+less some_file
